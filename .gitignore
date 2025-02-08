@@ -30,3 +30,5 @@
 *.exe
 *.out
 *.app
+/GameServer-8.51/bin
+/GameServer-8.51/obj
